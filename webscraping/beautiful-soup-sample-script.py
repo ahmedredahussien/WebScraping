@@ -14,7 +14,7 @@ def scrape_website(url):
 
         # Extracting the title
         title = soup.title.string
-        print(f"Title: {title}")
+        print(f"Page Title: {title}")
 
         # Extracting the paragraphs
         paragraphs = soup.find_all('p')
