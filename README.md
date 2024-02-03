@@ -3,8 +3,31 @@
 ### Scrapy:
 > Scrapy is an open-source web crawling framework for Python. It facilitates the extraction of data from websites and supports robust, efficient, and flexible scraping. With built-in features like middleware and pipelines, Scrapy provides a comprehensive solution for web scraping tasks.
 
+#### Scrapy Installation Steps
+```bash
+pip install scrapy
+scrapy startproject myscrapyproject
+cd myscrapyproject
+scrapy genspider myspider https://en.wikipedia.org/wiki/Python_(programming_language)
+scrapy crawl myspider
+```
+#### Scrapy Shell
+```bash
+
+```
+
 ### Beautiful Soup:
 > Beautiful Soup is a Python library for pulling data out of HTML and XML files. It provides Pythonic idioms for iterating, searching, and modifying the parse tree. Beautiful Soup transforms complex HTML documents into a tree of Python objects, simplifying web scraping tasks by offering intuitive methods to navigate and search the parsed content.
+
+#### Beautiful Installation Steps
+```bash
+pip install requests beautifulsoup4
+```
+
+### Install requirments file for python modules/libraries
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
