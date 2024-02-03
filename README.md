@@ -40,7 +40,6 @@ git push origin master
 git branch -d feature/my-feature
 > Force delete :
 git branch -D feature/my-feature
-
 ```
 
 ### Force push with overwrite  : 
@@ -48,9 +47,14 @@ git branch -D feature/my-feature
 git push -u --force origin master
 ```
 
-Direct Change to Master
+## CLoning and exiting repository
+```bash
+git clone https://github.com/ahmedredahussien/WebScraping.git WebScraping
+```
 
 ### Force overwrite my local changes from remote version : 
 ```bash
 git reset --hard origin/master
+
+Direct Change to Master
 
