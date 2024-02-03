@@ -16,6 +16,6 @@ class MyspiderSpider(scrapy.Spider):
         self.log(f'Content: {content}')
 
         yield {
-            'title': title,
-            'content': content,
+            'title2': title,
+            'content2': content,
         }

@@ -29,6 +29,8 @@ git commit README.md -m "add git steps to feature branch""
 > Normal commit push after 1st time :  
 git push origin my-feature
 ```
+
+
 ### After meging with master
 ```bash
 git checkout master
