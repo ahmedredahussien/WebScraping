@@ -22,14 +22,15 @@ scrapy crawl myspider -o output.xml
 #### Scrapy Shell
 ```bash
 scrapy shell https://en.wikipedia.org/wiki/Python_(programming_language)
-response.css('title::text').get()
-response.css('#firstHeading > span::text').get()
-response.css('#firstHeading').get()
-response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p:nth-child(6)').get()
-response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()
-response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4]
-response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4].strip().replace('\n', '')
-response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4].strip().replace('\n', '')
+
+>>> response.css('title::text').get()
+>>> response.css('#firstHeading > span::text').get()
+>>> response.css('#firstHeading').get()
+>>> response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p:nth-child(6)').get()
+>>> response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()
+>>> response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4]
+>>> response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4].strip().replace('\n', '')
+>>> response.css('div#mw-content-text > div.mw-content-ltr.mw-parser-output > p').getall()[4].strip().replace('\n', '')
 ```
 
 ### Beautiful Soup:
