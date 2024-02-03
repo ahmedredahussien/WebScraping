@@ -55,7 +55,7 @@ git clone https://github.com/ahmedredahussien/WebScraping.git WebScraping
 ### Force overwrite my local changes from remote version : 
 ```bash
 git reset --hard origin/master
-
+```
 Direct Change to Master
 
 changed on server
