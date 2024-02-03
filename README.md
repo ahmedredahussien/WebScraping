@@ -48,6 +48,8 @@ git branch -D feature/my-feature
 git push -u --force origin master
 ```
 
+Direct Change to Master
+
 ### Force overwrite my local changes from remote version : 
 ```bash
 git reset --hard origin/master
