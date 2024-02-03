@@ -49,6 +49,6 @@ if __name__ == "__main__":
 
     # Print the results
     if result:
-        print("Scraping Success.")
+        print("Scraping Successeded")
     else:
-        print("Scraping failed.")
+        print("Scraping failed")
