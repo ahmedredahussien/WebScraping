@@ -1,4 +1,14 @@
 # Sprints Web Scrapping Lab
+
+## Prerequisites
+1. Download Python Interpreter 3+ https://www.python.org/downloads/ 
+2. Download Integrated Development Environments “IDE” PyCharm Community Edition main page https://www.jetbrains.com/pycharm/download/  (the bottom black section with is free)
+3. for easy Direct Links downloads : https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe / https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+4. please create an account on github - sign up on github if you don't have already : 
+* Main Site : https://github.com/
+* (Current Direct Link for signup) [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home]
+* download git locally on your laptop as well: (Download Link) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
+
 ## Web scrapping using Scrapy and Beautiful Soup
 ### Scrapy:
 > Scrapy is an open-source web crawling framework for Python. It facilitates the extraction of data from websites and supports robust, efficient, and flexible scraping. With built-in features like middleware and pipelines, Scrapy provides a comprehensive solution for web scraping tasks.
