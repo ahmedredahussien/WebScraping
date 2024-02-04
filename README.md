@@ -5,7 +5,7 @@
    1. for easy Direct download Link : [python-3.11.5-amd64.exe](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe) 
 3. Download Integrated Development Environments “IDE” PyCharm Community Edition main page https://www.jetbrains.com/pycharm/download/  (the bottom black section with is free)
    1. for easy Direct download Link : [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
-5. please create an account on github - sign up on github if you don't have already : 
+5. Create an account on github - sign up on github if you don't have already : 
 * Main Site : https://github.com/
 * [Current Direct Link for signup](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 * download git locally on your laptop as well: [Download Link](https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe)
