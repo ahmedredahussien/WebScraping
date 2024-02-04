@@ -98,7 +98,7 @@ git branch -D feature/my-feature
 git push -u --force origin master
 ```
 
-## CLoning and exiting repository
+## Cloning an exiting repository to your local machine
 ```bash
 git clone https://github.com/ahmedredahussien/WebScraping.git WebScraping
 ```
