@@ -2,9 +2,9 @@
 
 ## Prerequisites
 1. Download Python Interpreter 3+ https://www.python.org/downloads/
-  2.1 for easy Direct download Link : [python-3.11.5-amd64.exe](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe) 
+  1. for easy Direct download Link : [python-3.11.5-amd64.exe](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe) 
 3. Download Integrated Development Environments “IDE” PyCharm Community Edition main page https://www.jetbrains.com/pycharm/download/  (the bottom black section with is free)
- 3.1 for easy Direct download Link : [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+   1. for easy Direct download Link : [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 5. please create an account on github - sign up on github if you don't have already : 
 * Main Site : https://github.com/
 * [Current Direct Link for signup](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
